@@ -1,0 +1,43 @@
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,800,700,600,300);
+
+.active a {
+	background-color: #47dfd7bb;
+	border-radius: 15px;
+	color: red;
+}
+
+body {
+	background: rgb(221, 218, 218);
+	margin:0;
+	font-family: 'Open Sans', sans-seriff;
+}
+
+hr {
+	border:0;
+	background:#dedede;
+	height: 2px;
+}
+
+header img {
+	margin-top: 6px;
+	border-radius: 8px;
+}
+
+header {
+	text-align: center;
+	color: #232323;
+}
+
+header .judul {
+	font-size: 17pt;
+}
+
+header .deskripsi {
+	font-size: 11pt;
+}
+
+.wrap {
+	width: 950px;
+	height: 130px auto;
+}
+
